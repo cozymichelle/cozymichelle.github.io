@@ -12,55 +12,43 @@ Hello, I am a Ph.D student in the [Computer Science and Engineering](https://www
 
 Education
 ======
-* B.S. in Computer Science, Yonsei University, 2013
-* Ph.D in Computer Science and Engineering, Michigan State University, 2025 (expected)
+* **B.S.** in Computer Science, Yonsei University, 2013
+* **Ph.D** in Computer Science and Engineering, Michigan State University, 2025 (expected)
 
 Publications
 ======
-* Woojeong Jin, Dongjin Choi, <ins>Youngjin Kim</ins>, and U Kang, “Activity Prediction from Sensor Data using Convolutional Neural Networks and an Efficient Compression Method.” Journal of KIISE (2018)
+* Woojeong Jin, Dongjin Choi, <ins>Youngjin Kim</ins>, and U Kang, **“Activity Prediction from Sensor Data using Convolutional Neural Networks and an Efficient Compression Method.”** *Journal of KIISE (2018)*
 
 Projects
 ======
-* [May 2018 - Sep. 2018] Building Lidar-Based Human Detection Technology
-  * Samsung Electronics Co., Ltd. Seoul, Republic of Korea
+* [May 2018 - Sep. 2018] **Building Lidar-Based Human Detection Technology**
+  * *Samsung Electronics Co., Ltd.* Seoul, Republic of Korea
     * Developed a Lidar-sensor environment for data acquisition
     * Acquired and extracted data for the experiment, using a Lidar sensor
-* [Sep. 2017 - Apr. 2018] Building Energy Optimization Technology 
-  * Samsung Electronics Co., Ltd. Seoul, Republic of Korea
+* [Sep. 2017 - Apr. 2018] **Building Energy Optimization Technology**
+  * *Samsung Electronics Co., Ltd.* Seoul, Republic of Korea
     * Developed a model for activity prediction by improving Deep Residual Net
     * Acquired and processed data for the experiment, using temperature, sound and video data
     * Managed the project website that displayed activity prediction in real time
-* [Sep. 2016 - May 2017] Parallelization of Laminar-IR  
-  * Capstone project at Yonsei University Seoul, Republic of Korea
+* [Sep. 2016 - May 2017] **Parallelization of Laminar-IR**
+  * *Capstone project* at Yonsei University, Seoul, Republic of Korea
     * Implemented unfolding of stream graphs onto multicore platforms, using double buffering technique and barriers for synchronization
-* [Sep. 2016 - Dec. 2016] Recommendation System for the Best-Fit Keyboard Layout 
-  * Class project at Yonsei University Seoul, Republic of Korea
+* [Sep. 2016 - Dec. 2016] **Recommendation System for the Best-Fit Keyboard Layout**
+  * *Class project* at Yonsei University, Seoul, Republic of Korea
     * Implemented a deep learning model that recommends a mobile keyboard layout
     * Acquired log file data of mobile users
 
 Teaching Experience
 ======
-* [Spring 2018] Teaching Assistant, Introduction to Data Mining
+* [Spring 2018] **Teaching Assistant**, Introduction to Data Mining
   * Seoul National University, Seoul, Republic of Korea
-* [Summer 2014] Teaching Assistant, After-school computer science program 
+* [Summer 2014] **Teaching Assistant**, After-school computer science program 
   * Geumok Elementary School, Seoul, Republic of Korea
-* [2009-2011] Teaching Assistant, SAT academy 
+* [2009-2011] **Teaching Assistant**, SAT academy 
   * IvyPlan, Seoul, Republic of Korea
-* [2006-2007] English Tutor, Voluntary program 
+* [2006-2007] **English Tutor**, Voluntary program 
   * Domestic violence shelter, Seoul, Republic of Korea
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * **Programming Languages**: Python, C++, C, Java
