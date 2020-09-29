@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Introduction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,65 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello, I am a Ph.D student in the [Computer Science and Engineering](https://www.cse.msu.edu/) at [Michigan State University](https://msu.edu/). I received B.S. in [Computer Science](https://cs.yonsei.ac.kr/cs/index.do) at [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp). I am interested in applying Natural Language Processing (NLP) techniques to legal tasks.
 
-A data-driven personal website
+Education
+======
+* B.S. in Computer Science, Yonsei University, 2013
+* Ph.D in Computer Science and Engineering, Michigan State University, 2025 (expected)
+
+Publications
+======
+* Woojeong Jin, Dongjin Choi, <ins>Youngjin Kim</ins>, and U Kang, “Activity Prediction from Sensor Data using Convolutional Neural Networks and an Efficient Compression Method.” Journal of KIISE (2018)
+
+Projects
+======
+* [May 2018 - Sep. 2018] Building Lidar-Based Human Detection Technology
+  * Samsung Electronics Co., Ltd. Seoul, Republic of Korea
+    * Developed a Lidar-sensor environment for data acquisition
+    * Acquired and extracted data for the experiment, using a Lidar sensor
+* [Sep. 2017 - Apr. 2018] Building Energy Optimization Technology 
+  * Samsung Electronics Co., Ltd. Seoul, Republic of Korea
+    * Developed a model for activity prediction by improving Deep Residual Net
+    * Acquired and processed data for the experiment, using temperature, sound and video data
+    * Managed the project website that displayed activity prediction in real time
+* [Sep. 2016 - May 2017] Parallelization of Laminar-IR  
+  * Capstone project at Yonsei University Seoul, Republic of Korea
+    * Implemented unfolding of stream graphs onto multicore platforms, using double buffering technique and barriers for synchronization
+* [Sep. 2016 - Dec. 2016] Recommendation System for the Best-Fit Keyboard Layout 
+  * Class project at Yonsei University Seoul, Republic of Korea
+    * Implemented a deep learning model that recommends a mobile keyboard layout
+    * Acquired log file data of mobile users
+
+Teaching Experience
+======
+* [Spring 2018] Teaching Assistant, Introduction to Data Mining
+  * Seoul National University, Seoul, Republic of Korea
+* [Summer 2014] Teaching Assistant, After-school computer science program 
+  * Geumok Elementary School, Seoul, Republic of Korea
+* [2009-2011] Teaching Assistant, SAT academy 
+  * IvyPlan, Seoul, Republic of Korea
+* [2006-2007] English Tutor, Voluntary program 
+  * Domestic violence shelter, Seoul, Republic of Korea
+
+Work experience
+======
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
+Skills
+======
+* **Programming Languages**: Python, C++, C, Java
+* **Libraries**: TensorFlow (Advanced), NumPy, SciPy, Pandas
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -28,6 +84,7 @@ Getting started
 Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+
 
 Create content & metadata
 ------
@@ -47,4 +104,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
