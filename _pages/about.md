@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Introduction"
+title: "Michelle YoungJin Kim"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
