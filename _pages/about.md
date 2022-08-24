@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a Ph.D student in the [Computer Science and Engineering](https://www.cse.msu.edu/) at [Michigan State University](https://msu.edu/). I received B.S. in [Computer Science](https://cs.yonsei.ac.kr/cs/index.do) at [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp). I am interested in applying Natural Language Processing (NLP) techniques to legal tasks.
+Hello, I am a Ph.D student in the [Computer Science and Engineering](https://www.cse.msu.edu/) at [Michigan State University](https://msu.edu/). I received B.S. in [Computer Science](https://cs.yonsei.ac.kr/cs/index.do) at [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp). I am interested in applying Natural Language Processing (NLP) techniques to analyze political framing in media.
 
 Education
 ======
@@ -17,26 +17,34 @@ Education
 
 Publications
 ======
-* Woojeong Jin, Dongjin Choi, <ins>Youngjin Kim</ins>, and U Kang, **“Activity Prediction from Sensor Data using Convolutional Neural Networks and an Efficient Compression Method.”** *Journal of KIISE (2018)*
+* <ins>Michelle Youngjin Kim</ins>, Kristen Johnson, **"CLoSE: Contrastive Learning of Subframe
+Embeddings for Political Bias Classification of News Media,"** *COLING (2022)*
+* Woojeong Jin, Dongjin Choi, <ins>Youngjin Kim</ins>, and U Kang, **“Activity Prediction from Sensor Data using Convolutional Neural Networks and an Efficient Compression Method,”** *Journal of KIISE (2018)*
 
 Projects
 ======
 * [May 2018 - Sep. 2018] **Building Lidar-Based Human Detection Technology**
   * *Samsung Electronics Co., Ltd.* Seoul, Republic of Korea
-    * Developed a Lidar-sensor environment for data acquisition
-    * Acquired and extracted data for the experiment, using a Lidar sensor
+    * Developed a Lidar-sensor environment for data acquisition.
+    * Acquired and extracted data for the experiment, using a Lidar sensor.
 * [Sep. 2017 - Apr. 2018] **Building Energy Optimization Technology**
   * *Samsung Electronics Co., Ltd.* Seoul, Republic of Korea
-    * Developed a model for activity prediction by improving Deep Residual Net
-    * Acquired and processed data for the experiment, using temperature, sound and video data
-    * Managed the project website that displayed activity prediction in real time
+    * Developed a model for activity prediction by improving Deep Residual Net.
+    * Acquired and processed data for the experiment, using temperature, sound and video data.
+    * Managed the project website that displayed activity prediction in real time.
 * [Sep. 2016 - May 2017] **Parallelization of Laminar-IR**
   * *Capstone project* at Yonsei University, Seoul, Republic of Korea
-    * Implemented unfolding of stream graphs onto multicore platforms, using double buffering technique and barriers for synchronization
+    * Implemented unfolding of stream graphs onto multicore platforms, using double buffering technique and barriers for synchronization.
 * [Sep. 2016 - Dec. 2016] **Recommendation System for the Best-Fit Keyboard Layout**
   * *Class project* at Yonsei University, Seoul, Republic of Korea
-    * Implemented a deep learning model that recommends a mobile keyboard layout
-    * Acquired log file data of mobile users
+    * Implemented a deep learning model that recommends a mobile keyboard layout.
+    * Acquired log file data of mobile users.
+
+Internships
+======
+* [Summer 2021] MedKit Korea
+  * Seoul, Republic of Korea
+    * Collect social media data on autism and build a machine learning model for fact-checking.
 
 Teaching Experience
 ======
