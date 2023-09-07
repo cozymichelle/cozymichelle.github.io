@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a Ph.D student in the [Computer Science and Engineering](https://www.cse.msu.edu/) at [Michigan State University](https://msu.edu/). I received B.S. in [Computer Science](https://cs.yonsei.ac.kr/cs/index.do) at [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp). I am interested in applying Natural Language Processing (NLP) techniques to analyze political framing in media.
+Hello, I am a Ph.D student in the [Computer Science and Engineering](https://www.cse.msu.edu/) at [Michigan State University](https://msu.edu/). I received B.S. in [Computer Science](https://cs.yonsei.ac.kr/cs/index.do) at [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp). I am interested in applying Natural Language Processing (NLP) techniques to analyze political framing in media and understand social biases in large language models.
 
 Education
 ======
@@ -17,6 +17,9 @@ Education
 
 Publications
 ======
+* <ins>Michelle YoungJin Kim</ins>, Junghwan Kim, Kristen Johnson, **"Race, Gender, and Age Biases in Biomedical Masked Language Models,"** *The 61st Annual Meeting of the Association for Computational Linguistics (ACL'23)*
+* Junghwan Kim, <ins>Michelle YoungJin Kim</ins>, Barzan Mozafari, **"Provable Memorization Capacity of Transformers,"** *The Eleventh International Conference on Learning Representations (2023)*
+* <ins>Michelle YoungJin Kim</ins>, Junghwan Kim, Bryan Woosung Kim, Kristen Johnson, Jee-In Kim, **"AsdClaims: Twitter Dataset of Claims on Autism Spectrum Disorder,"** *1st International Workshop on Big Data Analytics for Health and Medicine (2022)*
 * <ins>Michelle Youngjin Kim</ins>, Kristen Johnson, **"CLoSE: Contrastive Learning of Subframe
 Embeddings for Political Bias Classification of News Media,"** *COLING (2022)*
 * Woojeong Jin, Dongjin Choi, <ins>Youngjin Kim</ins>, and U Kang, **“Activity Prediction from Sensor Data using Convolutional Neural Networks and an Efficient Compression Method,”** *Journal of KIISE (2018)*
@@ -60,7 +63,7 @@ Teaching Experience
 Skills
 ======
 * **Programming Languages**: Python, C++, C, Java
-* **Libraries**: TensorFlow (Advanced), NumPy, SciPy, Pandas
+* **Libraries**: PyTorch, TensorFlow, NumPy, SciPy, Pandas
 
 <!-- A data-driven personal website
 ======
