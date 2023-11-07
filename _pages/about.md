@@ -12,8 +12,9 @@ Hello, I am a Ph.D student in the [Computer Science and Engineering](https://www
 
 Education
 ======
-* **B.S.** in Computer Science, Yonsei University, 2013
 * **Ph.D** in Computer Science and Engineering, Michigan State University, 2025 (expected)
+  * Michigan State University Enrichment Fellowship
+* **B.S.** in Computer Science, Yonsei University, 2013
 
 Publications
 ======
@@ -23,6 +24,15 @@ Publications
 * <ins>Michelle Youngjin Kim</ins>, Kristen Johnson, **"CLoSE: Contrastive Learning of Subframe
 Embeddings for Political Bias Classification of News Media,"** *COLING (2022)*
 * Woojeong Jin, Dongjin Choi, <ins>Youngjin Kim</ins>, and U Kang, **“Activity Prediction from Sensor Data using Convolutional Neural Networks and an Efficient Compression Method,”** *Journal of KIISE (2018)*
+
+Internships
+======
+* [Summer 2021, 2022] MedKit Korea
+  * Seoul, Republic of Korea
+    * Led the collection of social media data on Autism Spectrum Disorder (ASD) via keyword search, curated dataset through filtering and labeling, and published results at IEEE BDA4HM Workshop.
+    * Collaborated with game developers to create scenarios for digital therapy game using language generation models.
+    * Collaborated with the Jeju National University Hospital in Korea to build a fact-checking model on ASD using
+machine learning algorithms.
 
 Projects
 ======
@@ -43,14 +53,18 @@ Projects
     * Implemented a deep learning model that recommends a mobile keyboard layout.
     * Acquired log file data of mobile users.
 
-Internships
+Experience
 ======
-* [Summer 2021] MedKit Korea
-  * Seoul, Republic of Korea
-    * Collect social media data on autism and build a machine learning model for fact-checking.
+* [Jan. - Dec. 2023] Engineering Graduate Leadership Fellows Program
+  * Organized Graduate Women Lunches. Faced backlash across the College but worked with the College of Engineering Graduate Studies to overcome the difficulties and continue hosting the events.
+  * Organized social events for students’ well-being, including Bagels Before Break every semester and a coffee drop-in event after the shooting on campus.
+  * Assisted the organization of the Engineering Graduate Research Symposium that celebrates and encourages research across all College units.
+* [Apr. 2022] CRA-WP Grad Cohort for Women
 
 Teaching Experience
 ======
+* [Fall 2023] **Teaching Assistant**, Introduction to Machine Learning
+  * Michigan State University, East Lansing, MI, USA
 * [Spring 2018] **Teaching Assistant**, Introduction to Data Mining
   * Seoul National University, Seoul, Republic of Korea
 * [Summer 2014] **Teaching Assistant**, After-school computer science program 
