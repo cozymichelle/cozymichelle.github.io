@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a Ph.D student in the [Computer Science and Engineering](https://www.cse.msu.edu/) at [Michigan State University](https://msu.edu/). I received B.S. in [Computer Science](https://cs.yonsei.ac.kr/cs/index.do) at [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp). I am interested in applying Natural Language Processing (NLP) techniques to analyze political framing in media and understand social biases in large language models.
+Hello, I am a Ph.D student in the [Computer Science and Engineering](https://www.cse.msu.edu/) at [Michigan State University](https://msu.edu/). I received B.S. in [Computer Science](https://cs.yonsei.ac.kr/cs/index.do) at [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp). I am interested in applying Natural Language Processing (NLP) techniques to comprehend and analyze social problems such as social biases in large language models, biases in healthcare, and political framing in media.
 
 Education
 ======
@@ -37,7 +37,7 @@ machine learning algorithms.
 Projects
 ======
 * [Aug. 2020 - Dec. 2020] **Legal Judgement Prediction**
-  * *Course project for CSE 842 Natural Language Processing* Michigan State University, USA
+  * *Course project for CSE 842 Natural Language Processing* at Michigan State University, East Lansing, USA
     * Utilize summerization as a pre-processing method for legal judgement prediction.
     * Collect dataset for both legal text summarization and legal judgment prediction tasks.
     * [Written Report](/files/CSE842_report.pdf)
