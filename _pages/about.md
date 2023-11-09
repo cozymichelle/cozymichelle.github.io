@@ -20,9 +20,8 @@ Publications
 ======
 * <ins>Michelle YoungJin Kim</ins>, Junghwan Kim, Kristen Johnson, **"Race, Gender, and Age Biases in Biomedical Masked Language Models,"** *The 61st Annual Meeting of the Association for Computational Linguistics (ACL'23)* ([pdf](https://aclanthology.org/2023.findings-acl.749.pdf))
 * Junghwan Kim, <ins>Michelle YoungJin Kim</ins>, Barzan Mozafari, **"Provable Memorization Capacity of Transformers,"** *The Eleventh International Conference on Learning Representations (2023)* ([pdf](https://openreview.net/pdf?id=8JCg5xJCTPR))
-* <ins>Michelle YoungJin Kim</ins>, Junghwan Kim, Bryan Woosung Kim, Kristen Johnson, Jee-In Kim, **"AsdClaims: Twitter Dataset of Claims on Autism Spectrum Disorder,"** *1st International Workshop on Big Data Analytics for Health and Medicine (2022)*
-* <ins>Michelle Youngjin Kim</ins>, Kristen Johnson, **"CLoSE: Contrastive Learning of Subframe ([pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10020265))
-Embeddings for Political Bias Classification of News Media,"** *COLING (2022)* ([pdf](https://aclanthology.org/2022.coling-1.245.pdf), [GitHub](https://github.com/MSU-NLP-CSS/CLoSE_framing))
+* <ins>Michelle YoungJin Kim</ins>, Junghwan Kim, Bryan Woosung Kim, Kristen Johnson, Jee-In Kim, **"AsdClaims: Twitter Dataset of Claims on Autism Spectrum Disorder,"** *1st International Workshop on Big Data Analytics for Health and Medicine (2022)* ([pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10020265))
+* <ins>Michelle Youngjin Kim</ins>, Kristen Johnson, **"CLoSE: Contrastive Learning of Subframe Embeddings for Political Bias Classification of News Media,"** *COLING (2022)* ([pdf](https://aclanthology.org/2022.coling-1.245.pdf), [GitHub](https://github.com/MSU-NLP-CSS/CLoSE_framing))
 * Woojeong Jin, Dongjin Choi, <ins>Youngjin Kim</ins>, and U Kang, **“Activity Prediction from Sensor Data using Convolutional Neural Networks and an Efficient Compression Method,”** *Journal of KIISE (2018)* ([pdf](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE07454390))
 
 Internships
@@ -38,8 +37,8 @@ Projects
 ======
 * [Aug. 2020 - Dec. 2020] **Legal Judgement Prediction**
   * *Course project for CSE 842 Natural Language Processing* at Michigan State University, East Lansing, USA
-    * Utilize summarization as a pre-processing method for legal judgement prediction.
-    * Collect dataset for legal text summarization and legal judgment prediction tasks.
+    * Utilized summarization as a pre-processing method for legal judgement prediction.
+    * Collected dataset for legal text summarization and legal judgment prediction tasks.
     * [Written Report](/files/CSE842_report.pdf)
 * [May 2018 - Sep. 2018] **Building Lidar-Based Human Detection Technology**
   * *Samsung Electronics Co., Ltd.* Seoul, Republic of Korea
