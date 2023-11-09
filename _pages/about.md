@@ -38,8 +38,8 @@ Projects
 ======
 * [Aug. 2020 - Dec. 2020] **Legal Judgement Prediction**
   * *Course project for CSE 842 Natural Language Processing* at Michigan State University, East Lansing, USA
-    * Utilize summerization as a pre-processing method for legal judgement prediction.
-    * Collect dataset for both legal text summarization and legal judgment prediction tasks.
+    * Utilize summarization as a pre-processing method for legal judgement prediction.
+    * Collect dataset for legal text summarization and legal judgment prediction tasks.
     * [Written Report](/files/CSE842_report.pdf)
 * [May 2018 - Sep. 2018] **Building Lidar-Based Human Detection Technology**
   * *Samsung Electronics Co., Ltd.* Seoul, Republic of Korea
