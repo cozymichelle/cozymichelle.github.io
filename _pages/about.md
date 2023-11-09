@@ -18,16 +18,16 @@ Education
 
 Publications
 ======
-* <ins>Michelle YoungJin Kim</ins>, Junghwan Kim, Kristen Johnson, **"Race, Gender, and Age Biases in Biomedical Masked Language Models,"** *The 61st Annual Meeting of the Association for Computational Linguistics (ACL'23)*
-* Junghwan Kim, <ins>Michelle YoungJin Kim</ins>, Barzan Mozafari, **"Provable Memorization Capacity of Transformers,"** *The Eleventh International Conference on Learning Representations (2023)*
+* <ins>Michelle YoungJin Kim</ins>, Junghwan Kim, Kristen Johnson, **"Race, Gender, and Age Biases in Biomedical Masked Language Models,"** *The 61st Annual Meeting of the Association for Computational Linguistics (ACL'23)* ([pdf](https://aclanthology.org/2023.findings-acl.749.pdf))
+* Junghwan Kim, <ins>Michelle YoungJin Kim</ins>, Barzan Mozafari, **"Provable Memorization Capacity of Transformers,"** *The Eleventh International Conference on Learning Representations (2023)* ([pdf](https://openreview.net/pdf?id=8JCg5xJCTPR))
 * <ins>Michelle YoungJin Kim</ins>, Junghwan Kim, Bryan Woosung Kim, Kristen Johnson, Jee-In Kim, **"AsdClaims: Twitter Dataset of Claims on Autism Spectrum Disorder,"** *1st International Workshop on Big Data Analytics for Health and Medicine (2022)*
-* <ins>Michelle Youngjin Kim</ins>, Kristen Johnson, **"CLoSE: Contrastive Learning of Subframe
-Embeddings for Political Bias Classification of News Media,"** *COLING (2022)*
-* Woojeong Jin, Dongjin Choi, <ins>Youngjin Kim</ins>, and U Kang, **“Activity Prediction from Sensor Data using Convolutional Neural Networks and an Efficient Compression Method,”** *Journal of KIISE (2018)*
+* <ins>Michelle Youngjin Kim</ins>, Kristen Johnson, **"CLoSE: Contrastive Learning of Subframe ([pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10020265))
+Embeddings for Political Bias Classification of News Media,"** *COLING (2022)* ([pdf](https://aclanthology.org/2022.coling-1.245.pdf), [GitHub](https://github.com/MSU-NLP-CSS/CLoSE_framing))
+* Woojeong Jin, Dongjin Choi, <ins>Youngjin Kim</ins>, and U Kang, **“Activity Prediction from Sensor Data using Convolutional Neural Networks and an Efficient Compression Method,”** *Journal of KIISE (2018)* ([pdf](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE07454390))
 
 Internships
 ======
-* [Summer 2021, 2022] MedKit Korea
+* [Summer 2021, 2022] **MedKit Korea**
   * Seoul, Republic of Korea
     * Led the collection of social media data on Autism Spectrum Disorder (ASD) via keyword search, curated dataset through filtering and labeling, and published results at IEEE BDA4HM Workshop.
     * Collaborated with game developers to create scenarios for digital therapy game using language generation models.
@@ -36,6 +36,11 @@ machine learning algorithms.
 
 Projects
 ======
+* [Aug. 2020 - Dec. 2020] **Legal Judgement Prediction**
+  * *Course project for CSE 842 Natural Language Processing* Michigan State University, USA
+    * Utilize summerization as a pre-processing method for legal judgement prediction.
+    * Collect dataset for both legal text summarization and legal judgment prediction tasks.
+    * [Written Report](/files/CSE842_report.pdf)
 * [May 2018 - Sep. 2018] **Building Lidar-Based Human Detection Technology**
   * *Samsung Electronics Co., Ltd.* Seoul, Republic of Korea
     * Developed a Lidar-sensor environment for data acquisition.
@@ -53,13 +58,13 @@ Projects
     * Implemented a deep learning model that recommends a mobile keyboard layout.
     * Acquired log file data of mobile users.
 
-Experience
+Additional Experience
 ======
-* [Jan. - Dec. 2023] Engineering Graduate Leadership Fellows Program
+* [Jan. - Dec. 2023] **Engineering Graduate Leadership Fellows Program**
   * Organized Graduate Women Lunches. Faced backlash across the College but worked with the College of Engineering Graduate Studies to overcome the difficulties and continue hosting the events.
   * Organized social events for students’ well-being, including Bagels Before Break every semester and a coffee drop-in event after the shooting on campus.
   * Assisted the organization of the Engineering Graduate Research Symposium that celebrates and encourages research across all College units.
-* [Apr. 2022] CRA-WP Grad Cohort for Women
+* [Apr. 2022] **CRA-WP Grad Cohort for Women**
 
 Teaching Experience
 ======
@@ -78,6 +83,17 @@ Skills
 ======
 * **Programming Languages**: Python, C++, C, Java
 * **Libraries**: PyTorch, TensorFlow, NumPy, SciPy, Pandas
+
+Relevant Coursework
+======
+* [Spring 2021] Numerical Linear Algebra 
+* [Fall 2020] Natural Language Processing 
+* [Spring 2018] Topics in Algorithms (Data Compression) 
+* [Spring 2018] Introduction to Computer Vision 
+* [Fall 2017] Deep Learning 
+* [Fall 2017] Machine Learning 
+* [Fall 2015] Discrete Mathematics 
+
 
 <!-- A data-driven personal website
 ======
