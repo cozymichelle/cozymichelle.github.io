@@ -46,14 +46,14 @@ Projects
     * Acquired and extracted data for the experiment, using a Lidar sensor.
 * [Sep. 2017 - Apr. 2018] **Building Energy Optimization Technology**
   * *Samsung Electronics Co., Ltd.* Seoul, Republic of Korea
-    * Developed a model for activity prediction by improving Deep Residual Net.
-    * Acquired and processed data for the experiment, using temperature, sound and video data.
-    * Managed the project website that displayed activity prediction in real time.
+    * Developed a Deep Residual Net-based model for predicting human activities such as walking, resting, and teaching.
+    * Collected video for motion detection and sensor data for the detection of changes in temperature and sound and conducted the pre-processing of multimodal data.
+    * Managed the model repository and the website that displayed real-time predictions of the lab space activity.
 * [Sep. 2016 - May 2017] **Parallelization of Laminar-IR**
   * *Capstone project* at Yonsei University, Seoul, Republic of Korea
     * Implemented unfolding of stream graphs onto multicore platforms, using double buffering technique and barriers for synchronization.
 * [Sep. 2016 - Dec. 2016] **Recommendation System for the Best-Fit Keyboard Layout**
-  * *Class project* at Yonsei University, Seoul, Republic of Korea
+  * *Course project* at Yonsei University, Seoul, Republic of Korea
     * Implemented a deep learning model that recommends a mobile keyboard layout.
     * Acquired log file data of mobile users.
 
