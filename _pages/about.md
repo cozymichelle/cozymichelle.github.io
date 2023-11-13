@@ -14,7 +14,7 @@ Education
 ======
 * **Ph.D** in Computer Science and Engineering, Michigan State University, 2025 (expected)
   * Michigan State University Enrichment Fellowship
-* **B.S.** in Computer Science, Yonsei University, 2013
+* **B.S.** in Computer Science, Yonsei University, 2017
 
 Publications
 ======
