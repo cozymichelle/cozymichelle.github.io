@@ -18,6 +18,8 @@ Education
 
 Publications
 ======
+* <ins>Michelle YoungJin Kim*</ins>, Junghwan Kim*, Kristen Johnson, **"ABLE: Agency-BeLiefs
+Embedding to Address Stereotypical Bias through Awareness instead of Obliviousness,"** *The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)* 
 * <ins>Michelle YoungJin Kim</ins>, Junghwan Kim, Kristen Johnson, **"Race, Gender, and Age Biases in Biomedical Masked Language Models,"** *The 61st Annual Meeting of the Association for Computational Linguistics (ACL'23)* ([pdf](https://aclanthology.org/2023.findings-acl.749.pdf))
 * Junghwan Kim, <ins>Michelle YoungJin Kim</ins>, Barzan Mozafari, **"Provable Memorization Capacity of Transformers,"** *The Eleventh International Conference on Learning Representations (2023)* ([pdf](https://openreview.net/pdf?id=8JCg5xJCTPR))
 * <ins>Michelle YoungJin Kim</ins>, Junghwan Kim, Bryan Woosung Kim, Kristen Johnson, Jee-In Kim, **"AsdClaims: Twitter Dataset of Claims on Autism Spectrum Disorder,"** *1st International Workshop on Big Data Analytics for Health and Medicine (2022)* ([pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10020265))
