@@ -61,14 +61,16 @@ Projects
 
 Additional Experience
 ======
-* [Jan. - Dec. 2023] **Engineering Graduate Leadership Fellows Program**
-  * Organized Graduate Women Lunches. Faced backlash across the College but worked with the College of Engineering Graduate Studies to overcome the difficulties and continue hosting the events.
-  * Organized social events for students’ well-being, including Bagels Before Break every semester and a coffee drop-in event after the shooting on campus.
+* [Jan. 2023 - Current] **Engineering Graduate Leadership Fellows Program**
+  * Organized Graduate Women Lunches. 
+  * Organized social events for students’ well-being, including Bagels Before Break every semester and a coffee drop-in event.
   * Assisted the organization of the Engineering Graduate Research Symposium that celebrates and encourages research across all College units.
 * [Apr. 2022] **CRA-WP Grad Cohort for Women**
 
 Teaching Experience
 ======
+* [Spring 2024] **Teaching Assistant**, Introduction to Machine Learning
+  * Michigan State University, East Lansing, MI, USA
 * [Fall 2023] **Teaching Assistant**, Introduction to Machine Learning
   * Michigan State University, East Lansing, MI, USA
 * [Spring 2018] **Teaching Assistant**, Introduction to Data Mining
