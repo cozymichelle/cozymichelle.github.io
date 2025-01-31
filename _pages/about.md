@@ -19,7 +19,7 @@ Education
 Publications
 ======
 * <ins>Michelle YoungJin Kim<sup>+</sup></ins>, Junghwan Kim<sup>+</sup>, Kristen Johnson, **"ABLE: Agency-BeLiefs
-Embedding to Address Stereotypical Bias through Awareness instead of Obliviousness,"** *The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)* 
+Embedding to Address Stereotypical Bias through Awareness instead of Obliviousness,"** *The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)*  ([pdf](https://aclanthology.org/2024.lrec-main.4.pdf))
 * <ins>Michelle YoungJin Kim</ins>, Junghwan Kim, Kristen Johnson, **"Race, Gender, and Age Biases in Biomedical Masked Language Models,"** *The 61st Annual Meeting of the Association for Computational Linguistics (ACL'23)* ([pdf](https://aclanthology.org/2023.findings-acl.749.pdf))
 * Junghwan Kim, <ins>Michelle YoungJin Kim</ins>, Barzan Mozafari, **"Provable Memorization Capacity of Transformers,"** *The Eleventh International Conference on Learning Representations (2023)* ([pdf](https://openreview.net/pdf?id=8JCg5xJCTPR))
 * <ins>Michelle YoungJin Kim</ins>, Junghwan Kim, Bryan Woosung Kim, Kristen Johnson, Jee-In Kim, **"AsdClaims: Twitter Dataset of Claims on Autism Spectrum Disorder,"** *1st International Workshop on Big Data Analytics for Health and Medicine (2022)* ([pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10020265))
@@ -61,7 +61,10 @@ Projects
 
 Additional Experience
 ======
-* [Jan. 2023 - Current] **Engineering Graduate Leadership Fellows Program**
+* [Sep. 2024 - May. 2025] **GSMD Co-Chair, Graduate Women In Science (GWIS) Mid-Michigan**
+  * Recruited presenters and volunteers for Girls Math & Science Day (GMSD) to promote excellence in STEM and encourage the full participation of women
+  * Executed logistics for GMSD and secured necessary funding to support STEM education for girls, achieving equity
+* [Jan. 2023 - May. 2025] **Engineering Graduate Leadership Fellows Program**
   * Organized Graduate Women Lunches. 
   * Organized social events for students’ well-being, including Bagels Before Break every semester and a coffee drop-in event.
   * Assisted the organization of the Engineering Graduate Research Symposium that celebrates and encourages research across all College units.
